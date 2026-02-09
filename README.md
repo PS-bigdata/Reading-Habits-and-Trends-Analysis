@@ -36,5 +36,18 @@ Time-based trend analysis
 
 Debugging and validating data issues
 
-
+Goodreads-Habits-and-Trends-Analysis/
+│
+├── README.md
+│
+├── data/
+│   └── goodreads-books.csv
+│
+├── notebooks/
+│   └── Goodreads-Habits-and-Trends-Analysis.ipynb
+│
+├── visuals/
+│   ├── avg_rating_by_publication_year.png
+│   ├── avg_rating_vs_number_of_ratings.png
+│   └── distribution_of_average_ratings.png
 
